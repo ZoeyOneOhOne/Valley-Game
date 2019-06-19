@@ -1,0 +1,5 @@
+1.) Fix player model
+
+2.) Fix raptors movement
+
+3.) Shop?
